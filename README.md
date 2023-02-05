@@ -1,4 +1,4 @@
-# Brain_tumor_detection
+# Brain tumor classification
 
 Sample images from Validation data set
 
