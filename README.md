@@ -18,7 +18,7 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 - Epochs          --> 10
 - Batch size      --> 4
-- optimizer       --> Adam()
+- Optimizer       --> Adam()
 - Loss function   --> BinaryCrossentropy
 - Trace metrics   --> ['accuracy', 'Precision', 'Recall']
 
