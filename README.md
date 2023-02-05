@@ -11,11 +11,11 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 ## Train and validation set
 
-Epochs          --> 10
-Batch size      --> 4
-optimizer       --> Adam()
-Loss function   --> BinaryCrossentropy
-Trace metrics   --> ['accuracy', 'Precision', 'Recall']
+-Epochs          --> 10
+-Batch size      --> 4
+-optimizer       --> Adam()
+-Loss function   --> BinaryCrossentropy
+-Trace metrics   --> ['accuracy', 'Precision', 'Recall']
 
 ## Classification results **after 10 epochs on validation set** 
 
