@@ -45,6 +45,6 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 -Image 
 ![result_tumor](https://user-images.githubusercontent.com/23450113/218318362-963f1dd7-4095-49d9-bda0-ee19f864b638.png)
 
--Result
-![Screenshot from 2023-02-12 15-46-06](https://user-images.githubusercontent.com/23450113/218318455-33043faa-0c57-4af7-93b1-df98478360ac.png)
-ts
+-Results
+![Screenshot from 2023-02-12 15-49-40](https://user-images.githubusercontent.com/23450113/218318525-8a1357a7-944f-486a-9ac1-b37097d0098d.png)
+
