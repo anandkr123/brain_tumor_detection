@@ -17,7 +17,7 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 ## Train and validation set
 
 - Epochs          --> 10
-- Batch size      --> 4
+- Batch size      --> 16
 - Optimizer       --> Adam()
 - Loss function   --> BinaryCrossentropy
 - Trace metrics   --> ['accuracy', 'Precision', 'Recall']
@@ -25,11 +25,12 @@ https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detect
 
 ## Classification results **after 10 epochs on validation set** 
 
-![Screenshot from 2023-02-06 00-04-34](https://user-images.githubusercontent.com/23450113/216851078-6d1069c9-b338-4d2c-8bfb-b3003067ad90.png)
 
 ## Deployed the saved keras model using tensorflow serving using docker image tensorflow/serving
 
 ### Test the results on validation datset 
+
+![Screenshot from 2023-02-12 17-26-32](https://user-images.githubusercontent.com/23450113/218323492-7632e350-46e6-455a-b49b-d72c0911eac8.png)
 
 #### Image with no brain tumor classified as 0
 
